@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Harsh:
 🤝 I'm looking help with machine learning <br>☘️ I'm learning python || machine learning 
 
 
