@@ -1,5 +1,5 @@
 # 💫 I'm Harsh:
-🤝 I'm looking help with machine learning <br>☘️ I'm learning python || machine learning 
+🤝 I'm looking help with machine learning <br>☘️ Learning python || machine learning 
 
 
 ## 🌐 Socials:
