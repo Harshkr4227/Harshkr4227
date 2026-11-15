@@ -1,9 +1,10 @@
 # 💫 I'm Harsh:
-🤝 I'm looking help with machine learning <br>☘️ Learning python || machine learning 
+🤝 Building data pipelines, working with databases, and exploring machine learning through practical projects. <br>☘️ Data Engineering || Machine Learning 
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-kumar-214161295/overlay/about-this-profile/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ħarsh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@harshkr4227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkr4227@gmail.com) [![portfolio](https://img.shields.io/badge/portfolio)](https://harshkportfolio-navy.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
